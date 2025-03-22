@@ -1,4 +1,4 @@
-Assignment2
+## A45 Assignment2
 # Overview
 
 This is a Django-based multi-app project designed as part of an assignment. The project is fully Dockerized and integrated with Jenkins for automated CI/CD deployment.
