@@ -42,9 +42,9 @@ your project will be live on http://127.0.0.1:8000/
 ## 4. Jenkins CI/CD Pipeline
 The Jenkins pipeline automates:
 
-✅ Pulling code from GitHub
-✅ Building a Docker image
-✅ Pushing it to Docker Hub
+* ✅ Pulling code from GitHub
+* ✅ Building a Docker image
+* ✅ Pushing it to Docker Hub
 To trigger the pipeline, push any changes to GitHub, and Jenkins will do the rest!
 ### 5. Important Links
 ```bash
