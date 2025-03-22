@@ -9,14 +9,14 @@ This is a Django-based multi-app project designed as part of an assignment. The 
 * **Deployment:** Docker Hub
 
 # Project Structure
-StudentProject/ – Main Django project folder
-app1/ – Contains the homepage
-app2/ – Contains aboutpage
-app3/-Contains servicepage and contactpage
-templates/ – Global templates for UI
-static/ – Contains CSS for styling
-Dockerfile – Defines how the project runs inside a container
-Jenkinsfile – Automates the CI/CD pipeline
+* StudentProject/ – Main Django project folder
+* app1/ – Contains the homepage
+* app2/ – Contains aboutpage
+* app3/-Contains servicepage and contactpage
+* templates/ – Global templates for UI
+* static/ – Contains CSS for styling
+* Dockerfile – Defines how the project runs inside a container
+* Jenkinsfile – Automates the CI/CD pipeline
 # How to Run the Project Locally
 
 ## 1. Clone the Repository
